@@ -1,0 +1,81 @@
+class_name,category_name
+person,person
+bicycle,transport
+car,transport
+motorbike,transport
+aeroplane,transport
+bus,transport
+train,transport
+truck,transport
+boat,transport
+traffic light,transport
+fire hydrant,other
+stop sign,transport
+parking meter,transport
+bench,other
+bird,animal
+cat,animal
+dog,animal
+horse,animal
+sheep,animal
+cow,animal
+elephant,animal
+bear,animal
+zebra,animal
+giraffe,animal
+backpack,wearable
+umbrella,wearable
+handbag,wearable
+tie,wearable
+suitcase,wearable
+frisbee,sports
+skis,sports
+snowboard,sports
+sports ball,sports
+kite,sports
+baseball bat,sports
+baseball glove,sports
+skateboard,sports
+surfboard,sports
+tennis racket,sports
+bottle,household
+wine glass,household
+cup,household
+fork,household
+knife,household
+spoon,household
+bowl,household
+banana,food
+apple,food
+sandwich,food
+orange,food
+broccoli,food
+carrot,food
+hot dog,food
+pizza,food
+donut,food
+cake,food
+chair,furniture
+sofa,furniture
+pottedplant,furniture
+bed,furniture
+diningtable,furniture
+toilet,furniture
+tvmonitor,gadget
+laptop,gadget
+mouse,gadget
+remote,gadget
+keyboard,gadget
+cell phone,gadget
+microwave,household
+oven,household
+toaster,household
+sink,household
+refrigerator,household
+book,other
+clock,household
+vase,household
+scissors,household
+teddy bear,other
+hair drier,household
+toothbrush,household
