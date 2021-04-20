@@ -1,0 +1,31 @@
+image_name,objects
+000000002587.jpg,"['donut', 'banana']"
+000000003661.jpg,['cup']
+000000004795.jpg,"['laptop', 'cat', 'tvmonitor']"
+000000006012.jpg,"['apple', 'banana']"
+000000006894.jpg,"['elephant', 'person', 'horse']"
+000000007108.jpg,"['elephant', 'person', 'truck']"
+000000008844.jpg,"['person', 'banana']"
+000000010583.jpg,"['knife', 'sandwich', 'cup']"
+000000011760.jpg,['zebra']
+000000012576.jpg,"['pizza', 'cup', 'tvmonitor', 'diningtable', 'fork', 'knife', 'person']"
+000000012667.jpg,['banana']
+000000013004.jpg,['diningtable']
+000000013597.jpg,"['diningtable', 'cake']"
+000000014473.jpg,"['person', 'train']"
+000000015497.jpg,"['sofa', 'cat']"
+000000017115.jpg,['zebra']
+000000017207.jpg,"['truck', 'person', 'car', 'bus', 'motorbike']"
+000000017379.jpg,"['sink', 'tvmonitor']"
+000000017714.jpg,"['cup', 'diningtable', 'banana', 'fork', 'knife', 'spoon']"
+000000018833.jpg,['cat']
+000000020059.jpg,['zebra']
+000000021903.jpg,"['elephant', 'person']"
+000000022396.jpg,['aeroplane']
+000000022892.jpg,"['chair', 'cat', 'dog']"
+000000024144.jpg,['pizza']
+000000024919.jpg,['elephant']
+000000025139.jpg,['zebra']
+000000027696.jpg,"['fork', 'pizza', 'person', 'diningtable']"
+000000028449.jpg,['elephant']
+000000028809.jpg,['banana']
